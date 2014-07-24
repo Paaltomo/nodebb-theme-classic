@@ -12,7 +12,7 @@ A classic theme for NodeBB. For those who want a more traditional feel to their 
 
 ## Installation
 
-    npm coming soon
+    npm install nodebb-theme-classic
 
 
 ## Credits
