@@ -1,0 +1,35 @@
+{
+  "name": "nodebb-theme-classic",
+  "version": "0.0.10",
+  "description": "Classic Theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paaltomo/nodebb-theme-classic"
+  },
+  "keywords": [
+    "nodebb",
+    "classic",
+    "theme",
+    "themes"
+  ],
+  "author": {
+    "name": "Tanner Paaltomo",
+    "email": "tanner@paaltomo.com"
+  },
+  "license": "BSD-License",
+  "bugs": {
+    "url": "https://github.com/paaltomo/nodebb-theme-classic/issues"
+  },
+  "peerDependencies": {
+    "nodebb-theme-vanilla": "~0.0.101"
+  },
+  "homepage": "https://github.com/paaltomo/nodebb-theme-classic",
+  "_id": "nodebb-theme-classic@0.0.10"
+  },
+  "maintainers": [
+    {
+      "name": "paaltomo",
+      "email": "tanner@paaltomo.com"
+    },
+  ],
