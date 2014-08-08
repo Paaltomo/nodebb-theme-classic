@@ -1,6 +1,10 @@
+		<div widget-area="header" class="col-lg-12 col-sm-12"></div>
+
 <div class="row home" itemscope itemtype="http://www.schema.org/ItemList">
+
 	<div class="col-lg-9 col-sm-12" no-widget-class="col-lg-12 col-sm-12" no-widget-target="sidebar">
 		<div class="row">
+
 			<!-- BEGIN categories -->
 			<div class="col-md-12 col-sm-12 col-xs-12 category-item" data-cid="{categories.cid}" data-numRecentReplies="{categories.numRecentReplies}">
 				<meta itemprop="name" content="{categories.name}">
@@ -29,7 +33,7 @@
 							<div class="description" itemprop="description">{categories.description}
 							<!-- IF !categories.link -->
 						<!-- IF !categories.link -->
-							<div class="pull-right"><span class="badge {categories.unread-class}"><i class="fa fa-book" data-toggle="tooltip" title="[[global:topics]]"></i> <span class="human-readable-number" title="{categories.topic_count}">{categories.topic_count}</span>&nbsp; <i class="fa fa-comment" data-toggle="tooltip" title="[[global:posts]]"></i> <span class="human-readable-number" title="{categories.post_count}">{categories.post_count}</span></span></div>
+							<div class="pull-right"><span class="badge {categories.unread-class}"><i class="fa fa-book" data-toggle="tooltip" title="[[global:topics]]"></i> <span class="human-readable-number" title="{categories.topic_count}">{categories.topic_count}</span> [[global:topics]] &nbsp; <i class="fa fa-comment" data-toggle="tooltip" title="[[global:posts]]"></i> <span class="human-readable-number" title="{categories.post_count}">{categories.post_count}</span> [[global:posts]]</span></div>
 							<!-- ENDIF !categories.link -->
 							</div>
 						</div>

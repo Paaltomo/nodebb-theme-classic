@@ -1,68 +1,50 @@
 {
-  "name": "nodebb-theme-vanilla",
-  "version": "0.0.105",
-  "description": "Vanilla theme for NodeBB",
+  "name": "nodebb-theme-classic",
+  "version": "0.0.12",
+  "description": "Classic theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla"
+    "url": "https://github.com/Paaltomo/nodebb-theme-classic"
   },
   "keywords": [
     "nodebb",
     "theme",
     "themes",
-    "bootstrap",
-    "vanilla"
+    "classic"
   ],
   "contributors": [
     {
-      "name": "Andrew Rodrigues",
-      "email": "andrew@designcreateplay.com",
-      "url": "https://github.com/psychobunny"
-    },
-    {
-      "name": "Julian Lam",
-      "email": "julian@designcreateplay.com",
-      "url": "https://github.com/julianlam"
-    },
-    {
-      "name": "Barış Soner Uşaklı",
-      "email": "baris@designcreateplay.com",
-      "url": "https://github.com/barisusakli"
+      "name": "Jacob Martin",
+      "email": "jacob@jacobmartin.ca",
+      "url": "https://github.com/jacobmartinca"
     }
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla/issues"
+    "url": "https://github.com/Paaltomo/nodebb-theme-classic/issues"
   },
-  "homepage": "https://github.com/NodeBB/nodebb-theme-vanilla",
-  "_id": "nodebb-theme-vanilla@0.0.105",
-  "dist": {
-    "shasum": "eb4629c4ae6bcdac4945db7428b0b7d2ceb0ace6",
-    "tarball": "http://registry.npmjs.org/nodebb-theme-vanilla/-/nodebb-theme-vanilla-0.0.105.tgz"
-  },
-  "_from": "nodebb-theme-vanilla@~0.0.21",
-  "_npmVersion": "1.4.3",
-  "_npmUser": {
-    "name": "baris",
-    "email": "barisusakli@gmail.com"
-  },
+  "homepage": "https://github.com/Paaltomo/nodebb-theme-classic",
+  "_id": "nodebb-theme-classic@0.0.12",
   "maintainers": [
     {
-      "name": "psychobunny",
-      "email": "psycho.bunny@hotmail.com"
-    },
-    {
-      "name": "julianlam",
-      "email": "julian@designcreateplay.com"
-    },
-    {
-      "name": "baris",
-      "email": "barisusakli@gmail.com"
+      "name": "paaltomo",
+      "email": "tanner@paaltomo.com"
     }
   ],
   "directories": {},
-  "_shasum": "eb4629c4ae6bcdac4945db7428b0b7d2ceb0ace6",
-  "_resolved": "https://registry.npmjs.org/nodebb-theme-vanilla/-/nodebb-theme-vanilla-0.0.105.tgz",
+  "scripts": {},
+  "_shasum": "3a1db7ee096a74b31847cab02b3ffe3e1c44d253",
+  "_from": "nodebb-theme-classic@",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "paaltomo",
+    "email": "tanner@paaltomo.com"
+  },
+  "dist": {
+    "shasum": "3a1db7ee096a74b31847cab02b3ffe3e1c44d253",
+    "tarball": "http://registry.npmjs.org/nodebb-theme-classic/-/nodebb-theme-classic-0.0.10.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-classic/-/nodebb-theme-classic-0.0.10.tgz",
   "readme": "ERROR: No README data found!"
 }
