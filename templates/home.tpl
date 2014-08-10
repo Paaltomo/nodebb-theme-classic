@@ -1,4 +1,6 @@
+	<div class="row">
 		<div widget-area="header" class="col-lg-12 col-sm-12"></div>
+	</div>
 
 <div class="row home" itemscope itemtype="http://www.schema.org/ItemList">
 

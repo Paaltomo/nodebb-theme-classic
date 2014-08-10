@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-classic",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Classic theme for NodeBB",
   "main": "theme.less",
   "repository": {
@@ -25,7 +25,7 @@
     "url": "https://github.com/Paaltomo/nodebb-theme-classic/issues"
   },
   "homepage": "https://github.com/Paaltomo/nodebb-theme-classic",
-  "_id": "nodebb-theme-classic@0.0.12",
+  "_id": "nodebb-theme-classic@0.0.13",
   "maintainers": [
     {
       "name": "paaltomo",
